@@ -1,6 +1,6 @@
-<h1 align="center" Style="color: #3498db;">👋 Hey there, I’m Hamza Raja (Techorra)</h1>
+<h1 align="center">👋 Hey there, I’m Hamza Raja (Techorra)</h1>
 
-**🌐 Always Behind The Data To Make It Useful 🚀**
+<h4 align="center">🌐 Always Behind The Data To Make It Useful 🚀</h1>
 
 ---
 
