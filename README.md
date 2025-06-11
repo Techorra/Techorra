@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m Hamza Raja (Techorra)
+<h1 align="center" Style="color: #3498db;">👋 Hey there, I’m Hamza Raja (Techorra)</h1>
 
 **🌐 Always Behind The Data To Make It Useful 🚀**
 
@@ -28,6 +28,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=Techorra&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Techorra&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Techorra&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
 
 ## 🔥 Pinned Projects
 
