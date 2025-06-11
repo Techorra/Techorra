@@ -13,14 +13,6 @@
 
 ---
 
-## 💼 Skills & Tech
-
-- **Languages**: Python, SQL  
-- **Tools**: Power BI, Tableau, and more  
-- **Design**: Adobe Illustrator, Canva, Adobe Express, and more
-
----
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Techorra&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
