@@ -56,7 +56,7 @@ It's the fusion of your passion for **Tech + Chorra** (data wizardry)—always e
 
 ---
 
-### “Always Behind The Data To Make It Useful” — that's the daily grind. Let’s make data do the talking!
+<h4 align="center"> “Always Behind The Data To Make It Useful” — that's the daily grind. Let’s make data do the talking! <h4>
 
 ---
 
