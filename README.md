@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQF9SncvcraGsA/profile-displaybackgroundimage-shrink_350_1400/B4DZdZZAX9HwAk-/0/1749551419436?e=1755129600&v=beta&t=hCEgnnYO3OyIVTRG_9NqtShjfeZGIV9tG4kT4OvRXKw" alt="Hamza Banner" width="100%" />
+</p>
+
 <h1 align="center">👋 Hey there, I’m Hamza Raja (Techorra)</h1>
 
 <h4 align="center">🌐 Always Behind The Data To Make It Useful 🚀</h1>
