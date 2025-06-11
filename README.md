@@ -31,20 +31,6 @@
 
 ---
 
-## 🔥 Pinned Projects
-
-Here are a few highlights from my repos:
-
-| Project | What It Is | Tech |
-|--------|------------|------|
-| **[Python-SQLite Course Management System]** | CLI app managing courses & students | Python, SQLite |
-| **[Apps-Opener]** | Desktop GUI to launch daily apps | Python (Tkinter) |
-| **[Maestro-Pizza]** | Pizza website with React | React, JS, CSS |
-| **[Flask-Blogger]** | Blogging platform built with Flask | Flask, HTML, CSS |
-| **[Covid19-Tracker]** | Real-time COVID-19 stats tracker | React, APIs |
-
----
-
 ## 📈 What I’m Exploring
 
 - **Power BI** theming: crafting immersive light/dark mode templates
