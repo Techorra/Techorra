@@ -1,9 +1,75 @@
-<h1 align="center">Hi 👋, I'm Hamza Raja</h1>
-<h3 align="center">Data Engineer & Analyst | Python Enthusiast | Power BI Storyteller</h3>
+# 👋 Hey there, I’m Hamza Raja (Techorra)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+**🌐 Always Behind The Data To Make It Useful 🚀**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 About Me
+
+- ⚙️ *Data Engineer & BI Developer* - currently at **QoreLogix**  
+- 💻 Full-stack enthusiast: Backend, Frontend, and Data workflows  
+- 🎨 Also dabble in **Graphics Design** & creative UI/UX  
+- 📚 Lifelong learner: Python, SQL, BI, and data analytics
+
+---
+
+## 💼 Skills & Tech
+
+- **Languages**: Python, SQL  
+- **Tools**: Power BI, Tableau, and more  
+- **Design**: Adobe Illustrator, Canva, Adobe Express, and more
+
+---
+
+## 🔥 Pinned Projects
+
+Here are a few highlights from my repos:
+
+| Project | What It Is | Tech |
+|--------|------------|------|
+| **[Python-SQLite Course Management System]** | CLI app managing courses & students | Python, SQLite |
+| **[Apps-Opener]** | Desktop GUI to launch daily apps | Python (Tkinter) |
+| **[Maestro-Pizza]** | Pizza website with React | React, JS, CSS |
+| **[Flask-Blogger]** | Blogging platform built with Flask | Flask, HTML, CSS |
+| **[Covid19-Tracker]** | Real-time COVID-19 stats tracker | React, APIs |
+
+---
+
+## 📈 What I’m Exploring
+
+- **Power BI** theming: crafting immersive light/dark mode templates
+- **Data pipelines**: ETL, automation, and analytics dashboards
+- **DevOps & CI/CD**: GitHub Actions, Dockerized workflows
+- **UI/UX**: clean, intuitive, responsive interface design
+
+---
+
+## 📫 Let’s Connect
+
+- 🌐 **LinkedIn**: [Hamza Raja](https://www.linkedin.com/in/qore-hamza)  
+- 🎥 **YouTube**: [@quicknology](https://www.youtube.com/@quicknology), [@Genius-coder](https://www.youtube.com/@Genius-coder), [@hamza_Techy](https://www.youtube.com/@hamza_Techy), [@BI-Unlocked](https://www.youtube.com/@BI-Unlocked)
+- ✉️ **Email**: rajahamzaata@Gmail.com
+
+---
+
+## 💡 Why “Techorra”?
+
+It's the fusion of your passion for **Tech + Chorra** (data wizardry)—always exploring, tinkering, and making data meaningful.
+
+---
+
+## 📌 How You Can Support
+
+- ⭐ *Star* a project you like  
+- 📝 Open issues, suggest features  
+- 🧠 Contribute code or docs  
+- 🤝 Collab on BI, data pipelines, or full-stack builds
+
+---
+
+### “Always Behind The Data To Make It Useful” — that's the daily grind. Let’s make data do the talking!
+
+---
+
+*Peace ✌️,  
+Hamza Raja (Techorra)*
