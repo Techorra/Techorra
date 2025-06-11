@@ -17,18 +17,15 @@
 ![](https://github-profile-trophy.vercel.app/?username=Techorra&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Techorra&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Techorra&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Techorra&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Techorra&theme=transparent&hide_border=true&include_all_commits=true&count_private=true) ![](https://nirzak-streak-stats.vercel.app/?user=Techorra&theme=transparent&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Techorra&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 ## 📈 What I’m Exploring
 
-- **Power BI** theming: crafting immersive light/dark mode templates
-- **Data pipelines**: ETL, automation, and analytics dashboards
-- **DevOps & CI/CD**: GitHub Actions, Dockerized workflows
-- **UI/UX**: clean, intuitive, responsive interface design
+- **Data pipelines**: ETL, automation, and analytics dashboards  
+- **UI/UX**: clean, intuitive, responsive interface design  
+- **Full-stack Projects**: blending backend + frontend for real-world apps 
 
 ---
 
