@@ -30,7 +30,7 @@
 - **📊 Business Intelligence** → Building smart dashboards, crafting insights from data, and making decision-making ✨data-driven✨  
 - **🔁 Data Workflows** → Designing ETL pipelines, automating boring stuff, and scaling analytics systems  
 - **🧠 AI + BI Fusion** → Using GenAI to enhance data storytelling, generate insights, and build interactive
-- **🎨 UI/UX for BI** → Creating dashboards that are not only functional but freaking beautiful — clean, dark/light modes, brand-themed vibes
+- **🎨 UI/UX for BI** → Creating dashboards that are not only functional but freaking beautiful - clean, Multi-Theme, brand-themed vibes
 
 ---
 
