@@ -27,9 +27,10 @@
 
 ## 📈 What I’m Exploring
 
-- **Data pipelines**: ETL, automation, and analytics dashboards  
-- **UI/UX**: clean, intuitive, responsive interface design  
-- **Full-stack Projects**: blending backend + frontend for real-world apps 
+- **📊 Business Intelligence** → Building smart dashboards, crafting insights from data, and making decision-making ✨data-driven✨  
+- **🔁 Data Workflows** → Designing ETL pipelines, automating boring stuff, and scaling analytics systems  
+- **🧠 AI + BI Fusion** → Using GenAI to enhance data storytelling, generate insights, and build interactive
+- **🎨 UI/UX for BI** → Creating dashboards that are not only functional but freaking beautiful — clean, dark/light modes, brand-themed vibes
 
 ---
 
