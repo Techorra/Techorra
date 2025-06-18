@@ -6,10 +6,28 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=qore-hamza" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="Follow Me on LinkedIn"/>
   </a>
-</p>
+  
+  <a href="https://www.youtube.com/@hamza_Techy?sub_confirmation=1" target="_blank">
+    <img src="https://img.shields.io/badge/Hamza Tech Expert ▶-C94B4B?style=for-the-badge" alt="Subscribe to Hamza Tech Expert on YouTube"/>
+  </a>
 
+  <a href="https://www.youtube.com/@quicknology?sub_confirmation=1" target="_blank">
+    <img src="https://img.shields.io/badge/Quicknology ▶-C94B4B?style=for-the-badge" alt="Subscribe to Quicknology on YouTube"/>
+  </a>
+
+  <a href="https://www.youtube.com/@Genius-coder?sub_confirmation=1" target="_blank">
+    <img src="https://img.shields.io/badge/Genius Coder ▶-C94B4B?style=for-the-badge" alt="Subscribe to Genius Coder on YouTube"/>
+  </a>
+
+  <a href="https://www.youtube.com/@BI-unlocked?sub_confirmation=1" target="_blank">
+    <img src="https://img.shields.io/badge/BI Unlocked ▶-C94B4B?style=for-the-badge" alt="Subscribe to BI Unlocked on YouTube"/>
+  </a>
+
+  
+  
+</p>
 
 <h4 align="center">🌐 Always Behind The Data To Make It Useful 🚀</h1>
 
