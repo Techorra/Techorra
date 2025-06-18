@@ -4,6 +4,13 @@
 
 <h1 align="center">👋 Hey there, I’m Hamza Raja (Techorra)</h1>
 
+<p align="center">
+  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=qore-hamza" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/>
+  </a>
+</p>
+
+
 <h4 align="center">🌐 Always Behind The Data To Make It Useful 🚀</h1>
 
 ---
