@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0fec1e9a-a13e-4eb9-b812-979602bebe0e)<p align="center">
+<p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4D16AQF9SncvcraGsA/profile-displaybackgroundimage-shrink_350_1400/B4DZdZZAX9HwAk-/0/1749551419436?e=1755129600&v=beta&t=hCEgnnYO3OyIVTRG_9NqtShjfeZGIV9tG4kT4OvRXKw" alt="Hamza Banner" width="100%" />
 </p>
 
