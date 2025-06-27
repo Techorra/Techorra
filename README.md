@@ -56,7 +56,7 @@
 - **🔁 Data Workflows** → Designing ETL pipelines, automating boring stuff, and scaling analytics systems ✨Automated✨ 
 - **🧠 AI + BI Fusion** → Using GenAI to enhance data storytelling, generate insights, and build interactive
 - **🎨 UI/UX for BI** → Creating dashboards that are not only functional but freaking beautiful - clean and Multi-Themed
-- **🌐 Frontend Engineering** → Building web interfaces with ReactJS, JavaScript, HTML, and CSS that connect users with data in real time
+- **🌐 Frontend Engineering** → Building web interfaces with ReactJS, JavaScript, HTML, and CSS that connect users with data
 
 ---
 
