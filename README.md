@@ -42,6 +42,11 @@
 
 ---
 
+### 🏅 Certifications
+
+- 📊 **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**  
+   [Issued by Microsoft | Credential ID or link if available]
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Techorra&theme=radical&no-frame=true&no-bg=true&margin-w=5)
 
