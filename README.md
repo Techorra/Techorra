@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hey there, I’m Hamza Raja (Techorra)</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=qore-hamza" target="_blank">
+  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=qorehamza" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="Follow Me on LinkedIn"/>
   </a>
   
