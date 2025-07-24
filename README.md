@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGLvcuzZrkgOQ/profile-displaybackgroundimage-shrink_350_1400/B4DZfQi8.HGUAk-/0/1751550516762?e=1756944000&v=beta&t=Ofuq96fwA3RzLc6sRkWSOO0oX-TkEeZtY-Fh7s-IJcE" alt="Hamza Banner" width="100%" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHznGmzntlEBw/profile-displaybackgroundimage-shrink_350_1400/B4DZgTHqR2GsAY-/0/1752667436480?e=1756339200&v=beta&t=bNagdSVVyyKcSswILqH95FakpQEEeNYj26XK1aV5gVc" alt="Hamza Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hey there, I’m Hamza Raja (Techorra)</h1>
