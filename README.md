@@ -42,10 +42,12 @@
 
 ---
 
-### 🏅 Certifications
+## 🏅 Certifications
 
 - 📊 **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**  
    [Verified by Microsoft](https://learn.microsoft.com/api/credentials/share/en-us/HamzaRaja-3467/2F7F59280F6DFEEA?sharingId=29845978E5B6033E)
+
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Techorra&theme=radical&no-frame=true&no-bg=true&margin-w=5)
