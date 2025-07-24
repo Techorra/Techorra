@@ -70,7 +70,7 @@
 ## 📫 Let’s Connect
 
 - 🌐 **LinkedIn**: [Hamza Raja](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=qore-hamza)  
-- 🎥 **YouTube**: [@quicknology](https://www.youtube.com/@quicknology?sub_confirmation=1), [@Genius-coder](https://www.youtube.com/@Genius-coder?sub_confirmation=1), [@hamza_Techy](https://www.youtube.com/@hamza_Techy?sub_confirmation=1), [@BI-Unlocked]([https://www.youtube.com/@BI-Unlocked](https://www.youtube.com/@BI-unlocked?sub_confirmation=1))
+- 🎥 **YouTube**: [@quicknology](https://www.youtube.com/@quicknology?sub_confirmation=1), [@Genius-coder](https://www.youtube.com/@Genius-coder?sub_confirmation=1), [@hamza_Techy](https://www.youtube.com/@hamza_Techy?sub_confirmation=1), [@BI-Unlocked](https://www.youtube.com/@BI-unlocked?sub_confirmation=1)
 - ✉️ **Email**: Connect2Hamza.Tech@Gmail.com
 
 ---
