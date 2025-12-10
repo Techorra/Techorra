@@ -49,9 +49,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Techorra&theme=radical&no-frame=true&no-bg=true&margin-w=5)
-
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Techorra&theme=transparent&hide_border=true&include_all_commits=true&count_private=true) ![](https://nirzak-streak-stats.vercel.app/?user=Techorra&theme=transparent&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Techorra&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
