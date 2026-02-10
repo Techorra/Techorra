@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4D16AQHznGmzntlEBw/profile-displaybackgroundimage-shrink_350_1400/B4DZgTHqR2GsAY-/0/1752667436480?e=1768435200&v=beta&t=L8-nEgKfoiXp2-E5dIzL0OtTKc4rMg_BTBrQhp0x_X0" alt="Hamza Banner" width="100%" />
-</p>
+</p> -->
 
 <h1 align="center">👋 Hey there, I’m Hamza Raja (Techorra)</h1>
 
