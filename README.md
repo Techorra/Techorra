@@ -52,11 +52,6 @@
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Techorra&theme=transparent&hide_border=true&include_all_commits=true&count_private=true) ![](https://nirzak-streak-stats.vercel.app/?user=Techorra&theme=transparent&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Techorra&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-
 ## 📈 What I’m Exploring
 
 - **📊 Business Intelligence** → Building smart dashboards, crafting insights from data, and making decision-making ✨data-driven✨  
