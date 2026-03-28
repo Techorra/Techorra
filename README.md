@@ -18,7 +18,7 @@
   </a>
 
   <a href="https://www.youtube.com/@Genius-coder?sub_confirmation=1" target="_blank">
-    <img src="https://img.shields.io/badge/Genius Cod ▶-C94B4B?style=for-the-badge" alt="Subscribe to Genius Coder on YouTube"/>
+    <img src="https://img.shields.io/badge/Genius Coder ▶-C94B4B?style=for-the-badge" alt="Subscribe to Genius Coder on YouTube"/>
   </a>
 
   <a href="https://www.youtube.com/@BI-unlocked?sub_confirmation=1" target="_blank">
