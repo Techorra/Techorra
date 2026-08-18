@@ -44,13 +44,13 @@
 
 ## 🏅 Certifications
 
-- **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**  
+- 🚀 **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**  
    [Verified by Microsoft](https://learn.microsoft.com/api/credentials/share/en-us/HamzaRaja-3467/2F7F59280F6DFEEA?sharingId=29845978E5B6033E)
 
-- **Microsoft Certified: Fabric Data Engineer Associate (DP-700)**  
+- 🚀 **Microsoft Certified: Fabric Data Engineer Associate (DP-700)**  
    [Verified by Microsoft](https://learn.microsoft.com/api/credentials/share/en-us/HamzaRaja-3467/8FA138A5827FA8A6?sharingId=29845978E5B6033E)
 
-- **Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)**  
+- 🚀 **Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)**  
    [Verified by Microsoft](https://learn.microsoft.com/api/credentials/share/en-us/HamzaRaja-3467/51B74CBB564CC81?sharingId=29845978E5B6033E)
   
 ---
