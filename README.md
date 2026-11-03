@@ -9,20 +9,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="Follow Me on LinkedIn"/>
   </a>
   
-  <a href="https://www.youtube.com/@hamza_Techy?sub_confirmation=1" target="_blank">
-    <img src="https://img.shields.io/badge/Hamza Tech Expert ▶-C94B4B?style=for-the-badge" alt="Subscribe to Hamza Tech Expert on YouTube"/>
-  </a>
-
-  <a href="https://www.youtube.com/@quicknology?sub_confirmation=1" target="_blank">
-    <img src="https://img.shields.io/badge/Quicknology ▶-C94B4B?style=for-the-badge" alt="Subscribe to Quicknology on YouTube"/>
-  </a>
-
-  <a href="https://www.youtube.com/@Genius-coder?sub_confirmation=1" target="_blank">
-    <img src="https://img.shields.io/badge/Genius Coder ▶-C94B4B?style=for-the-badge" alt="Subscribe to Genius Coder on YouTube"/>
-  </a>
-
-  <a href="https://www.youtube.com/@BI-unlocked?sub_confirmation=1" target="_blank">
-    <img src="https://img.shields.io/badge/BI Unlocked ▶-C94B4B?style=for-the-badge" alt="Subscribe to BI Unlocked on YouTube"/>
+  <a href="https://techorra.github.io/QoreHamza/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="Visit my Portfolio"/>
   </a>
 
   
